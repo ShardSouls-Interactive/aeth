@@ -1,0 +1,12 @@
+{
+    "button": {
+
+    },
+    "modal": {
+        "redeemModal": {
+            "notValidCode": "> Oops! Please enter a valid code to redeem.",
+            "guildPremiumExist": "> This server is already enjoying premium status!",
+            "guildSuccess": "Success! This server is now a premium server, and the premium access will expire <t:{{duration}}:R>."
+        }
+    }
+}

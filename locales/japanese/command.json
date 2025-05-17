@@ -1,0 +1,17 @@
+{
+    "language": {
+        "success": "> <@{{user}}>、言語設定を{{data}}に更新しました!"
+    },
+    "redeem": {
+        "modal": {
+            "placeholder": "ここにプレミアムコードを入力してください!",
+            "title": "プレミアムアクセスを引き換える"
+        }
+    },
+    "ping": {
+        "reply": "> Pong! 私が確認する間、少し待ってください...",
+        "embed": {
+            "description": "**現在の応答時間は次のとおりです:** '{{ping}}ms'\n\n> Discord の接続速度: '{{apiPing}}ms'\n> ボットのアクティブ時間: <t:{{uptime}}:R>"
+        }
+    }
+}

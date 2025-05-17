@@ -1,0 +1,17 @@
+{
+    "language": {
+        "success": "> Hola <@{{usuario}}>, he actualizado con éxito mi configuración de idioma a {{data}}!"
+    },
+    "redeem": {
+        "modal": {
+            "placeholder": "¡Introduce tu código premium aquí!",
+            "title": "Canjea tu acceso premium"
+        }
+    },
+    "ping": {
+        "reply": "> Pong! Espera un momento mientras compruebo...",
+        "embed": {
+            "description": "**Este es mi tiempo de respuesta actual:** '{{ping}}ms'\n\n> Velocidad de conexión de Discord: '{{apiPing}}ms'\n> Tiempo activo del bot: <t:{{uptime}}:R>"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "language": {
+        "success": "> 안녕하세요 <@{{user}}>님, 언어 설정을 {{data}}로 성공적으로 업데이트했습니다!"
+    },
+    "redeem": {
+        "modal": {
+            "placeholder": "여기에 프리미엄 코드를 입력하세요!",
+            "title": "Premium 액세스 권한 사용"
+        }
+    },
+    "ping": {
+        "reply": "> Pong! 내가 확인하는 동안 잠시만 기다려...",
+        "embed": {
+            "description": "**현재 응답 시간은 다음과 같습니다:** '{{ping}}ms'\n\n> 디스코드 연결 속도: '{{apiPing}}ms'\n> 봇 활성화 시간: <t:{{uptime}}:R>"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "event": {
+        "autocomplete": { 
+            "fail": "> ¡Vaya! Algo salió mal al intentar ejecutar este comando. Por favor, inténtelo de nuevo." 
+        },
+        "button": {
+            "fail": "> ¡Vaya! Encontramos un error al procesar este botón. Por favor, inténtelo de nuevo."
+        },
+        "modal": {
+            "fail": "> ¡Vaya! Encontramos un error al procesar este botón. Por favor, inténtelo de nuevo."
+        },
+        "command": {
+            "fail": "> ¡Vaya! Se ha producido un error al ejecutar este comando. Por favor, inténtelo de nuevo más tarde.",
+            "devOnly": "> ¡Arrepentido! Este comando está reservado para el desarrollador de {{client}}. Póngase en contacto con ellos para obtener ayuda.",
+            "underDev": "> ¡Atención! Este bot se encuentra actualmente en desarrollo. Por favor, vuelva a consultar más tarde.",
+            "userPremium": "> ¡Arrepentido! Este comando solo está disponible para usuarios premium. Considere la posibilidad de actualizar su acceso.",
+            "userPremiumEnd": "> Tu acceso premium ha caducado <t:{{duration}}:R>. Renueve su suscripción para usar comandos premium.",
+            "guildPremium": "> ¡Arrepentido! Este comando solo se puede utilizar en un servidor premium. Compruebe el estado de su servidor.",
+            "guildPremiumEnd": "> El acceso premium de este servidor ha caducado <t:{{duration}}:R>. Renueve el estado premium del servidor para usar comandos premium."
+        }
+    }
+}

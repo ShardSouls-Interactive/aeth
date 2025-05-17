@@ -1,0 +1,12 @@
+{
+    "button": {
+
+    },
+    "modal": {
+        "redeemModal": {
+            "notValidCode": "> 哎呀！请输入有效的代码进行兑换。",
+            "guildPremiumExist": "> 此服务器已经享受高级状态！",
+            "guildSuccess": "成功！此服务器现在是高级服务器，高级访问权限将在 <t:{{duration}}:R> 过期。"
+        }
+    }
+}

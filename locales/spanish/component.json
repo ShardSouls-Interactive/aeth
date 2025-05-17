@@ -1,0 +1,12 @@
+{
+    "button": {
+
+    },
+    "modal": {
+        "redeemModal": {
+            "notValidCode": "> ¡Vaya! Introduzca un código válido para canjearlo.",
+            "guildPremiumExist": "> ¡Este servidor ya está disfrutando del estado premium!",
+            "guildSuccess": "¡Éxito! Este servidor es ahora un servidor premium, y el acceso premium expirará <t:{{duration}}:R>."
+        }
+    }
+}

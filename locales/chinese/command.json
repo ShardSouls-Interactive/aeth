@@ -1,0 +1,17 @@
+{
+    "language": {
+        "success": "> 嘿 <@{{user}}>，我已成功将我的语言设置更新为 {{data}}！"
+    },
+    "redeem": {
+        "modal": {
+            "placeholder": "在此处输入您的高级代码！",
+            "title": "兑换 Premium Access"
+        }
+    },
+    "ping": {
+        "reply": "> Pong! 等一下我检查......",
+        "embed": {
+            "description": "**这是我当前的响应时间:** '{{ping}}ms'\n\n> Discord 的连接速度: '{{apiPing}}ms'\n> 机器人的活跃时间: <t:{{uptime}}:R>"
+        }
+    }
+}

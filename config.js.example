@@ -1,0 +1,30 @@
+const dotenv = require("dotenv");
+dotenv.config();
+
+module.exports = {
+  botToken: process.env.token,
+  mongoUrl: process.env.mongoUrl,
+  clientId: process.env.clientId,
+  logChannel: process.env.logChannel,
+  deploySlashOnReady: true,
+  underDevelopment: false,
+  developers: [
+    {
+      name: "user name",
+      id: "user id",
+    },
+  ],
+  devGuilds: [
+    {
+      name: "guild name",
+      id: "guild id",
+    },
+  ],
+  betaTestGuilds: [
+   {
+      name: "guild name",
+      id: "guild ai",
+    },
+  ],
+  logWebhook: process.env.logWebhook,
+};

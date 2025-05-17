@@ -1,0 +1,19 @@
+{
+	"strike": {
+		"t1": "você recebeu seu **1º aviso** por linguagem ofensiva.",
+		"t2": "**2º aviso**. Você foi silenciado  por 5 minutos.",
+		"t3": "**3º aviso**. Você foi silenciado  por 15 minutos.",
+		"reason": "3 avisos por linguagem ofensiva.",
+		"ban": "foi **banido** após 3 avisos."
+	},
+	"join": {
+		"title": "",
+		"ctx": "",
+		"footer": ""
+	},
+	"leave": {
+		"title": "",
+		"ctx": "",
+		"footer": ""
+	}
+}

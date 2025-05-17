@@ -1,0 +1,12 @@
+{
+    "button": {
+
+    },
+    "modal": {
+        "redeemModal": {
+            "notValidCode": "> 이런! 사용할 유효한 코드를 입력하세요.",
+            "guildPremiumExist": "> 이 서버는 이미 프리미엄 상태를 누리고 있습니다!",
+            "guildSuccess": "성공! 이 서버는 이제 프리미엄 서버이며 프리미엄 액세스는 <t:{{duration}}:R> 만료됩니다."
+        }
+    }
+}
